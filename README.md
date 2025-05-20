@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate product person who likes to build
 ## 🚀 About Me
 
 - 🌍 Based in **Hamburg, Germany**
-- 🛠 Solid Knowledge: **JavaScript, React **
+- 🛠 Solid Knowledge: **JavaScript, React**
 - 📚 Learning: **Node.js, Express, MongoDB**
 - 🎯 Goals: **building "oh wow, thats cool" products**
 
