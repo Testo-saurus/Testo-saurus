@@ -9,22 +9,23 @@ Welcome to my GitHub profile! I'm a passionate product person who likes to build
 - 🌍 Based in **Hamburg, Germany**
 - 🛠 Solid Knowledge: **JavaScript, React **
 - 📚 Learning: **Node.js, Express, MongoDB**
-- 🎯 Goals: ** building "oh wow, thats cool" products **
+- 🎯 Goals: **building "oh wow, thats cool" products**
 
 
 ---
 
 ## 🧰 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=firebase)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![JavaScript](https://img.shields.io/badge/JavaScript-474747?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-505050?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-474747?style=flat&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-505050?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-474747?style=flat&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Supabase-505050?style=flat&logo=firebase&logoColor=FFCA28)
+![HTML5](https://img.shields.io/badge/HTML5-474747?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-505050?style=flat&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/Git-474747?style=flat&logo=git&logoColor=F05032)
+
 
 ---
 
