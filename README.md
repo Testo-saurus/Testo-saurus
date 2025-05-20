@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jannik!
 
-Welcome to my GitHub profile! I'm a passionate product person who likes to build things that delight. Currently playing around with React and backend tools like Express and MongoDB. 
+Welcome to my GitHub profile! I'm a passionate product person who loves building things that delight. Currently experimenting with React and backend tools like Express and MongoDB.
 
----
+
 
 ## 🚀 About Me
 
@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a passionate product person who likes to build
 - 🎯 Goals: **building "oh wow, thats cool" products**
 
 
----
 
 ## 🧰 Tech Stack
 
@@ -27,11 +26,8 @@ Welcome to my GitHub profile! I'm a passionate product person who likes to build
 ![Git](https://img.shields.io/badge/Git-474747?style=flat&logo=git&logoColor=F05032)
 
 
----
-
 
 ## 📫 Reach Me
-
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jannik-strohbeck-044707130/)
 - 🌐 [Portfolio](https://your-website.com)
