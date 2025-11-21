@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate product person who loves building
 ## 📫 Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jannik-strohbeck-044707130/)
-- 🌐 [Portfolio](https://my-portfolio-taupe-six-73.vercel.app/)
+- 🌐 [Portfolio](https://my-portfolio-taupe-six-73.vercel.app/) Dark Mode coming soon ;)
 
 
 Thanks for stopping by! 😊
